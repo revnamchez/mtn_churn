@@ -17,6 +17,20 @@ model, scaler, encoder, model_cols = load_assets()
 # --- UI SETUP ---
 st.set_page_config(page_title="MTN Churn Predictor", layout="wide")
 st.title("🟡 MTN Customer Churn Analysis")
+
+    st.markdown("---")
+    st.markdown(
+        """
+        <div style='text-align: center; color: gray; font-size: 0.8rem;'>
+        <b>Developed By:</b><br>
+        Nnaemeka Ezeonyi<br>
+        Ben
+        </div>
+        """, 
+        unsafe_allow_html=True
+    )
+
+
 st.markdown("### Tuned XGBoost Production Model (77% Accuracy)")
 
 # --- INPUT SECTION (SIDEBAR) ---
