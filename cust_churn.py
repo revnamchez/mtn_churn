@@ -127,7 +127,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: gray; font-size: 0.9rem;'>
-    <p><b>MTN Churn Predictor v1.0</b> | Developed by Developer Name 1 & Developer Name 2</p>
+    <p><b>MTN Churn Predictor v1.0</b> | Developed by: Nnaemeka Ezeonyi & Ben </p>
     <p style='color: #b23b3b;'>⚠️ <b>Disclaimer:</b> This application is strictly for Academic Purposes.</p>
     </div>
     """, 
