@@ -16,7 +16,7 @@ model, scaler, encoder, model_cols = load_assets()
 
 # --- UI SETUP ---
 st.set_page_config(page_title="MTN Churn Predictor", layout="wide")
-st.title("🟡 MTN Customer Churn Analysis")
+st.title("🟡 MTN Customer Churn Analysis for 2025 Dataset")
 
 st.markdown("---")
 st.markdown(
