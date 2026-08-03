@@ -18,8 +18,8 @@ model, scaler, encoder, model_cols = load_assets()
 st.set_page_config(page_title="MTN Churn Predictor", layout="wide")
 st.title("🟡 MTN Customer Churn Analysis")
 
-    st.markdown("---")
-    st.markdown(
+st.markdown("---")
+st.markdown(
         """
         <div style='text-align: center; color: gray; font-size: 0.8rem;'>
         <b>Developed By:</b><br>
