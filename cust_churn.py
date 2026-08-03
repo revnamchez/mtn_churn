@@ -121,3 +121,16 @@ if st.sidebar.button("Analyze Churn Risk"):
         st.plotly_chart(fig, use_container_width=True)
 else:
     st.info("Adjust the customer details in the sidebar and click 'Analyze Churn Risk' to begin.")
+
+
+st.markdown("---")
+st.markdown(
+    """
+    <div style='text-align: center; color: gray; font-size: 0.9rem;'>
+    <p><b>MTN Churn Predictor v1.0</b> | Developed by Developer Name 1 & Developer Name 2</p>
+    <p style='color: #b23b3b;'>⚠️ <b>Disclaimer:</b> This application is strictly for Academic Purposes.</p>
+    </div>
+    """, 
+    unsafe_allow_html=True
+)
+
