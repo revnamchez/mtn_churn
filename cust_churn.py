@@ -22,8 +22,8 @@ st.markdown("---")
 st.markdown(
         """
         <div style='text-align: center; color: gray; font-size: 0.8rem;'>
-        <b>Research By:</b><br>
-        Benjamin Nwankwo
+        <b>A PhD Research By:</b><br>
+        Benjamin Nwabunike Nwankwo
         </div>
         """, 
         unsafe_allow_html=True
