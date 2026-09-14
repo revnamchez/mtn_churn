@@ -24,11 +24,11 @@ st.markdown(
         <div style='text-align: center; color: gray; font-size: 0.8rem;'>
         <b>Developed By:</b>
         Nnaemeka U. Ezeonyi, PhD.
-        </div>
+        </div> <br />
         """, 
         unsafe_allow_html=True
     )
-<br />
+
 st.markdown(
         """
         <div style='text-align: center; color: gray; font-size: 0.8rem;'>
