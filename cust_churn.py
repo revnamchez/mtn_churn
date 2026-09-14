@@ -22,14 +22,13 @@ st.markdown("---")
 st.markdown(
         """
         <div style='text-align: center; color: gray; font-size: 0.8rem;'>
-        <b>Develped By:</b><br>
+        <b>Developed By:</b><br>
         Nnaemeka U. Ezeonyi, PhD.
         </div>
         """, 
         unsafe_allow_html=True
     )
 
-st.markdown("---")
 st.markdown(
         """
         <div style='text-align: center; color: gray; font-size: 0.8rem;'>
