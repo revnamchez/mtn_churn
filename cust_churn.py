@@ -38,7 +38,7 @@ st.markdown(
         """, 
         unsafe_allow_html=True
     )
-
+st.markdown("---")
 
 st.markdown("### Tuned XGBoost Production Model (77% Accuracy)")
 
