@@ -22,6 +22,17 @@ st.markdown("---")
 st.markdown(
         """
         <div style='text-align: center; color: gray; font-size: 0.8rem;'>
+        <b>Develped By:</b><br>
+        Nnaemeka U. Ezeonyi, PhD.
+        </div>
+        """, 
+        unsafe_allow_html=True
+    )
+
+st.markdown("---")
+st.markdown(
+        """
+        <div style='text-align: center; color: gray; font-size: 0.8rem;'>
         <b>A PhD Research By:</b><br>
         Benjamin Nwabunike Nwankwo
         </div>
@@ -126,7 +137,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: gray; font-size: 0.9rem;'>
-    <p><b>MTN Churn Predictor v1.0</b> | Developed by: Benjamin N. Nwankwo</p>
+    <p><b>MTN Churn Predictor v1.0</b> | Developed by: Nnaemeka U. Ezeonyi & Benjamin N. Nwankwo</p>
     <p style='color: #b23b3b;'>⚠️ <b>Disclaimer:</b> This application is strictly for Academic Purposes.</p>
     </div>
     """, 
